@@ -1,4 +1,4 @@
-# Projeto Web - Introdução ao HTML (Parte 2)
+# Projeto Web - Introdução ao HTML 
 
 Este projeto foi desenvolvido como atividade prática para a disciplina de **Desenvolvimento Front-End, sob orientação do **Prof. Israel Cunha**.
 
